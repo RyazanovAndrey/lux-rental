@@ -1,0 +1,14 @@
+.about {
+    min-height: 300px;
+    background: url('/about-1.jpg') no-repeat;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+
+    span {
+        color: var(--color-accent);
+    }
+}

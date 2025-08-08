@@ -1,0 +1,23 @@
+.select-car {
+    background-image: url('/change-car.jpg');
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.select-car-wrapper {
+    width: 1200px;
+}
+
+.select-car-title {
+    font-size: 30px;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+
+    span {
+        color: var(--color-accent);
+    }
+}

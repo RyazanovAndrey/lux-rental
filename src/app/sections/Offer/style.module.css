@@ -1,0 +1,17 @@
+.offer {
+    background: url('/offer.jpg');
+    min-height: 600px;
+    display: grid;
+    place-items: center;
+}
+
+.offer-wrapper {
+    text-align: center;
+    max-width: 520px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}

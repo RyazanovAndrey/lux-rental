@@ -1,0 +1,8 @@
+.contacts-card {
+    display: flex;
+    column-gap: 20px;
+}
+
+.contacts-card-title {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,25 @@
+.table {
+    width: 100%;
+}
+
+.table-title {
+    display: grid;
+    grid-template-columns: 10% 20% 20% 30% 20%;
+}
+
+.table-col {
+    padding: 15px;
+    border-top: 1px solid var(--color-line);
+    min-height: 80px;
+}
+
+.table-content {
+    display: grid;
+    grid-template-columns: 10% 20% 20% 30% 20%;
+    align-items: center;
+}
+
+.btn-group {
+    display: flex;
+    column-gap: 30px;
+}

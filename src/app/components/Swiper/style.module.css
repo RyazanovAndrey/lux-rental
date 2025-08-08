@@ -1,0 +1,33 @@
+.slider {
+    min-height: 800px;
+}
+
+.slider-wrapper {
+    width: 460px;
+    margin-top: 240px;
+}
+
+.title {
+    font-size: 120px;
+}
+
+.btn-group {
+    display: flex;
+    column-gap: 10px;
+    margin-top: 20px;
+}
+
+.btn-more {
+    background-color: var(--color-accent);
+    padding: 15px 24px;
+    border-radius: 50px;
+    display: block;
+}
+
+.btn-order {
+    border: 1px solid var(--color-accent);
+    padding: 15px 24px;
+    border-radius: 50px;
+    display: block;
+}
+

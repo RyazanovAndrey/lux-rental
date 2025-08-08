@@ -1,0 +1,9 @@
+.contacts {
+    margin-block: 150px 50px;
+}
+
+.contacts-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 180px;
+}

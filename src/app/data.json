@@ -1,0 +1,129 @@
+{
+    "cars": [
+        {
+            "_id": 15321,
+            "image": "/cars/cars-1.jpg",
+            "title": "Aston Martin DBX",
+            "people": "5",
+            "doors": 4,
+            "trans": "auto",
+            "bags": 4
+        },
+        {
+            "_id": 15321,
+            "image": "/cars/cars-1.jpg",
+            "title": "Aston Martin DBX",
+            "people": "5",
+            "doors": 2,
+            "trans": "auto",
+            "bags": 2
+        },
+        {
+            "_id": 15321,
+            "image": "/cars/cars-1.jpg",
+            "title": "Aston Martin DBX",
+            "people": "5",
+            "doors": 5,
+            "trans": "auto",
+            "bags": 5
+        },
+        {
+            "_id": 15321,
+            "image": "/cars/cars-1.jpg",
+            "title": "Aston Martin DBX",
+            "people": "5",
+            "doors": 2,
+            "trans": "auto",
+            "bags": 4
+        }
+    ],
+    "category": [
+        {
+            "id": 1232132,
+            "title": "Кросовер",
+            "image": "/category/cat-1.jpg"
+        },
+        {
+            "id": 1235465,
+            "title": "Кабріолет",
+            "image": "/category/cat-1.jpg"
+        },
+        {
+            "id": 234578,
+            "title": "Хетчбек",
+            "image": "/category/cat-1.jpg"
+        },
+        {
+            "id": 234578,
+            "title": "Хетчбек",
+            "image": "/category/cat-1.jpg"
+        },
+        {
+            "id": 234578,
+            "title": "Хетчбек",
+            "image": "/category/cat-1.jpg"
+        }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "title": "Корпоративний прокат автомобілів",
+            "desc": "Lorem ipsum suscipit porttitor diam lectus tincidunt pellentesque egestas at aliquam cras egestas ultrices gravida arcu sit tristique eu urna."
+        },
+        {
+            "id": 2,
+            "title": "Корпоративний прокат автомобілів",
+            "desc": "Lorem ipsum suscipit porttitor diam lectus tincidunt pellentesque egestas at aliquam cras egestas ultrices gravida arcu sit tristique eu urna."
+        },
+        {
+            "id": 3,
+            "title": "Корпоративний прокат автомобілів",
+            "desc": "Lorem ipsum suscipit porttitor diam lectus tincidunt pellentesque egestas at aliquam cras egestas ultrices gravida arcu sit tristique eu urna."
+        },
+        {
+            "id": 4,
+            "title": "Корпоративний прокат автомобілів",
+            "desc": "Lorem ipsum suscipit porttitor diam lectus tincidunt pellentesque egestas at aliquam cras egestas ultrices gravida arcu sit tristique eu urna."
+        },
+        {
+            "id": 5,
+            "title": "Корпоративний прокат автомобілів",
+            "desc": "Lorem ipsum suscipit porttitor diam lectus tincidunt pellentesque egestas at aliquam cras egestas ultrices gravida arcu sit tristique eu urna."
+        },
+        {
+            "id": 6,
+            "title": "Корпоративний прокат автомобілів",
+            "desc": "Lorem ipsum suscipit porttitor diam lectus tincidunt pellentesque egestas at aliquam cras egestas ultrices gravida arcu sit tristique eu urna."
+        }
+    ],
+    "post": [
+        {
+            "_id": "1",
+            "title": "Post 1",
+            "desc": "Lorem ipsum maecenas pulvinar laoreet pulvinar etiam massa at duis.",
+            "image": "/blog/blog-1.jpg",
+            "date" : "12-05-25"
+        },
+        {
+            "_id": "2",
+            "title": "Post 2",
+            "desc": "Lorem ipsum maecenas pulvinar laoreet pulvinar etiam massa at duis.",
+            "image": "/blog/blog-1.jpg",
+            "date" : "12-05-25"
+        },
+        {
+            "_id": "3",
+            "title": "Post 3",
+            "desc": "Lorem ipsum maecenas pulvinar laoreet pulvinar etiam massa at duis.",
+            "image": "/blog/blog-1.jpg",
+            "date" : "12-05-25"
+        },
+        {
+            "_id": "4",
+            "title": "Post 4",
+            "desc": "Lorem ipsum maecenas pulvinar laoreet pulvinar etiam massa at duis.",
+            "image": "/blog/blog-1.jpg",
+            "date" : "12-05-25"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-link:nth-child(n +2) {
+    margin-top: 20px;
+}
+
+.sidebar-link.active {
+    color: var(--color-accent);
+}

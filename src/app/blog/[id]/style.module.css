@@ -1,0 +1,26 @@
+.blog {
+    min-height: 300px;
+    background: url('/services.jpg') no-repeat;
+    padding-top: 200px;
+}
+
+
+.blog-image {
+    border-radius: 15px;
+}
+
+.blog-title {
+    color: var(--color-accent);
+    font-size: 30px;
+}
+
+.blog-wrapper {
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+}
+
+.blog-content {
+    margin-top: 20px;
+    color: var(--color-grey);
+}

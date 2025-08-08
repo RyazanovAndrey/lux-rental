@@ -1,0 +1,19 @@
+.rent-car {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    background-color: var(--color-secondary);
+    padding: 20px 55px;
+    border-radius: 100px;
+}
+
+.rent-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 20px;
+}
+
+.icon {
+    color: var(--color-accent);
+}

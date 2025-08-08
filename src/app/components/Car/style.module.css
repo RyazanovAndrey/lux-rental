@@ -1,0 +1,50 @@
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: var(--color-secondary);
+    height: 400px;
+}
+
+.card-wrapper {
+    padding: 20px;
+}
+
+.brand {
+    font-size: 23px;
+}
+
+.items-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-block: 12px 25px;
+}
+
+.card-item {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+}
+
+.users-count {
+    font-size: 18px;
+}
+
+.card-icon {
+    color: var(--color-accent);
+}
+
+.cart-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cart-price {
+    font-size: 23px;
+    font-weight: 700;
+
+    span {
+        color: var(--color-accent);
+    }
+}
+

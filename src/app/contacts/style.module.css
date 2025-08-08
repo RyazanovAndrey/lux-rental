@@ -1,0 +1,71 @@
+.contacts {
+    min-height: 300px;
+    background: url('/services.jpg') no-repeat;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+
+    span {
+        color: var(--color-accent);
+    }
+}
+
+.contacts-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.contacts-info {
+    background-color: var(--color-secondary);
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.contacts-title {
+    font-size: 30px;
+    margin-block: 30px 10px;
+}
+
+.contacts-info:hover {
+    background-color: var(--color-accent);
+    color: var(--color-main);
+}
+
+
+.contacts-wrapper-form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.contacts-form-title {
+    font-size: 23px;
+    font-weight: 600;
+    margin-block: 30px;
+}
+
+.contacts-form * {
+    margin-top: 10px;
+}
+
+.contacts-item {
+    width: 100%;
+    padding-left: 15px;
+    background-color: var(--color-secondary);
+    border-radius: 10px;
+    height: 40px;
+    font-size: 18px;
+}
+
+.btn {
+    background-color: var(--color-accent);
+    color: var(--color-main);
+    padding: 15px 24px;
+    border-radius: 50px;
+}
